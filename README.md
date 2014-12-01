@@ -41,7 +41,7 @@ Setup and use:
   ```
       $curl -d "off" 192.168.x.x:1280
   ```
-  - You can adjust the port required to anything by changing the ```.listen(1280)``` specification in the OnlineSwitch.js script.
+  - You can adjust the port that the server listens on by changing the ```.listen(1280)``` specification in the OnlineSwitch.js script.
   
   - You can now build a simple interface in html to send the requests, or alternativley script actions remote via the curl commands.
 
