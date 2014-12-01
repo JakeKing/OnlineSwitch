@@ -21,7 +21,9 @@ Setup and use:
   ```
       $sudo apt-get update
       $sudo apt-get install python-dev
-      $sudo apt-get install python-rpi.gpio 
+      $sudo apt-get install python-rpi.gpio
+      $sudo apt-get install nodejs
+      $sudo apt-get install npm
   ```
 
   - Plug in your relay - Pin 17 on the Rpi for the relay trigger. I then used the 5v pin to power the relay.
