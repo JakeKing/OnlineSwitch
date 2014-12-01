@@ -45,4 +45,9 @@ Setup and use:
   
   - You can now build a simple interface in html to send the requests, or alternativley script actions remote via the curl commands.
 
+  - Next steps:
+      - Add args on the python script to change both the GPIO pin and the state
+      - Add requests to query the status of any GPIO pin in use via the same simple post/get request
+      - Build a simple front-end for the controller in ExpressJs.
+      - Add some authentication or IP whitelisting for devices that will be on the public internet.
 
