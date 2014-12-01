@@ -32,10 +32,12 @@ Setup and use:
       $nodejs OnlineSwitch.js
   ```
   - send a POST request to the node server on the port 1280 to turn the relay on:
+  
   ``` 
       $curl -d "on" 192.168.x.x:1280
   ```
   - send a POST request to the node server on the port 1280 to turn the relay off:
+  
   ```
       $curl -d "off" 192.168.x.x:1280
   ```
