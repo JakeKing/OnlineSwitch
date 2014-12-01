@@ -13,6 +13,7 @@ Things you'll need:
   1. Python
   2. NodeJs
   3. Relay Board - I used something like this http://www.sainsmart.com/arduino-pro-mini.html
+  4. RaspberryPi running Minibian/Raspbian (it will most likeley work on everything, but I've only tested on these os's)
 
 Setup and use:
 
